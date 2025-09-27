@@ -13,11 +13,11 @@
 
 **输入 Prompt:**  
 a wooden cabin in snowy mountains during sunrise, photo realistic  
-**输出结果**  
+**输出结果:**  
 <img src="results/wooden_cabin.png" width="400">  
 **输入 Prompt:**  
 a cyberpunk city with neon lights, ultra detailed, cinematic, 4k  
-**输出结果**  
+**输出结果:**  
 <img src="results/cyberpunk_city.png" width="400">
 
 ## 📂 项目结构
