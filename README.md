@@ -5,7 +5,7 @@
 
 ## 🚀 使用步骤
 
-1. 打开 [Google Colab Notebook](Copy of ai_text2img_demo.ipynb)  
+1. 打开 [Google Colab Notebook](ai_text2img_demo.ipynb)  
 2. 按顺序运行每个代码块  
 3. 修改 `prompt`，生成属于你的 AI 图片
 
@@ -15,7 +15,6 @@
 a wooden cabin in snowy mountains during sunrise, photo realistic  
 **输出结果**  
 <img src="results/wooden_cabin.png" width="400">  
----
 **输入 Prompt**  
 a cyberpunk city with neon lights, ultra detailed, cinematic, 4k  
 **输出结果**  
