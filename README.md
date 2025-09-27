@@ -5,7 +5,7 @@
 
 ## 🚀 使用步骤
 
-1. 打开 [Google Colab Notebook](Untitled0.ipynb)  
+1. 打开 [Google Colab Notebook](Copy of ai_text2img_demo.ipynb)  
 2. 按顺序运行每个代码块  
 3. 修改 `prompt`，生成属于你的 AI 图片
 
@@ -41,4 +41,4 @@ ai-text2img/
 - 加入中文 prompt 支持
 
 ## 👨‍💻 作者
-- JackHors  
+- JackHorzt  
