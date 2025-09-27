@@ -5,9 +5,17 @@
 
 ## 🚀 使用步骤
 
-1. 打开 [Google Colab Notebook](ai_text2img_demo.ipynb)  
+1. 下载并在 [Colab](https://colab.research.google.com/) 上打开 [Google Colab Notebook](ai_text2img_demo.ipynb)  
 2. 按顺序运行每个代码块  
 3. 修改 `prompt`，生成属于你的 AI 图片
+
+## 🚀 在线运行
+
+点击下方按钮，在 Google Colab 中运行本项目：  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/JackHorzt/ai-text2img/blob/main/ai_text2img_demo.ipynb
+)
 
 ## 📸 示例效果
 
