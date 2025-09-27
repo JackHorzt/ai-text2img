@@ -11,22 +11,22 @@
 
 ## 📸 示例效果
 
-**输入 Prompt**
-a wooden cabin in snowy mountains during sunrise, photo realistic
-**输出结果**
-<img src="results/wooden_cabin.png" width="400">
+**输入 Prompt**  
+a wooden cabin in snowy mountains during sunrise, photo realistic  
+**输出结果**  
+<img src="results/wooden_cabin.png" width="400">  
 ---
-**输入 Prompt**
-a cyberpunk city with neon lights, ultra detailed, cinematic, 4k
-**输出结果**
+**输入 Prompt**  
+a cyberpunk city with neon lights, ultra detailed, cinematic, 4k  
+**输出结果**  
 <img src="results/cyberpunk_city.png" width="400">
 
 ## 📂 项目结构
-ai-text2img/
-├── Untitled0.ipynb # Notebook代码
-├── results/ # 示例图片
-│ ├── wooden_cabin.png
-│ └── cyberpunk_city.png
+ai-text2img/  
+├── ai_text2img_demo.ipynb # Notebook代码  
+├── results/ # 示例图片  
+│ ├── wooden_cabin.png  
+│ └── cyberpunk_city.png  
 └── README.md # 项目说明文档
 
 ## 🛠️ 技术栈
